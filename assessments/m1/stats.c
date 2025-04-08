@@ -45,18 +45,16 @@ void print_statistics(unsigned char* data, unsigned int size) {
 
 
 void print_array(unsigned char* data, unsigned int size) {
+    sort_array(data, size);
 
-    printf("Array: ");
-
+    printf("Sorted_Array:\n");
     for (unsigned int i = 0; i < size; i++) {
-
         printf("%u ", data[i]);
-
     }
-
     printf("\n");
 
 }
+
 
 
 
