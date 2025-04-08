@@ -9,13 +9,13 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file <stats.c> 
+ * @brief <Implementation of statistical analysis function for unsigned char arrays >
  *
- * <Add Extended Description Here>
+ * <This file contains the function definitions for analyzing an array of unsigned char data>
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author <Stefan Thich>
+ * @date <April 8, 2025 >
  *
  */
 
